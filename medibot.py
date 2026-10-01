@@ -1,5 +1,5 @@
 import os
-os.environ["STREAMLIT_SERVER_FILE_WATCHER_TYPE"] = "none"
+
 from dotenv import load_dotenv
 import streamlit as st
 
